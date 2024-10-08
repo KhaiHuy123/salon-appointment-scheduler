@@ -1,2 +1,2 @@
-# salon-appointment-scheduler
+# Salon-Appointment-Scheduler
 ### [certificate] - [freeCodeCamp] - [Relational Database]
