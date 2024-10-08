@@ -4,6 +4,7 @@
 ![image](https://github.com/user-attachments/assets/c42bcc06-6ff1-4d5f-a756-ebb52191a47e)
 
 # Submission
+![image](https://github.com/user-attachments/assets/bc728ed5-00f6-4258-855a-ce3765408c1d)
 
 # Instructions
 Follow the instructions and get all the user stories below to pass to finish the project. Create your database by logging in to psql `with psql --username=freecodecamp --dbname=postgres`. You can query the database in your script with `psql --username=freecodecamp --dbname=salon -c "SQL QUERY HERE"`, add more flags if you need to. Be sure to get creative, and have fun!
