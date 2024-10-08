@@ -1,2 +1,2 @@
 # salon-appointment-scheduler
-[certificate] - [freeCodeCamp] - [Relational Database]
+### [certificate] - [freeCodeCamp] - [Relational Database]
