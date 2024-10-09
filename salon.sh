@@ -63,7 +63,7 @@ while true; do
   if [ $RETVAL -eq 0 ]; then
     break
   else
-    printf "\nI could not find that service. Would you like to choose again ?\n"
+    printf "\nI could not find that service. Would you like to choose again ? (If not press Ctrl + C to quit, thank you )\n"
   fi
   ((NO_CUSTOMERS_APPOINTMENT++))
 done
